@@ -1,0 +1,74 @@
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2 - Copy (12)\WindowsGame2\WindowsGame2\bin\Windows Phone\Release\Content\testfont.xnb
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2 - Copy (12)\WindowsGame2\WindowsGame2\bin\Windows Phone\Release\Content\scorefont.xnb
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2 - Copy (12)\WindowsGame2\WindowsGame2\bin\Windows Phone\Release\Content\bigfont.xnb
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2 - Copy (12)\WindowsGame2\WindowsGame2\bin\Windows Phone\Release\Content\backgroundfont.xnb
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2 - Copy (12)\WindowsGame2\WindowsGame2\bin\Windows Phone\Release\Content\pointsfont.xnb
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2 - Copy (12)\WindowsGame2\WindowsGame2\bin\Windows Phone\Release\Content\letterpointsfont.xnb
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2 - Copy (12)\WindowsGame2\WindowsGame2\bin\Windows Phone\Release\Content\pointsfont2.xnb
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2 - Copy (12)\WindowsGame2\WindowsGame2\bin\Windows Phone\Release\Content\endgamepoints.xnb
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2 - Copy (12)\WindowsGame2\WindowsGame2\bin\Windows Phone\Release\Content\orangefont.xnb
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2 - Copy (12)\WindowsGame2\WindowsGame2\bin\Windows Phone\Release\Content\whiteclearfont.xnb
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2 - Copy (12)\WindowsGame2\WindowsGame2\bin\Windows Phone\Release\Content\menuheader.xnb
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2 - Copy (12)\WindowsGame2\WindowsGame2\bin\Windows Phone\Release\Content\Laser.xnb
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2 - Copy (12)\WindowsGame2\WindowsGame2\bin\Windows Phone\Release\Content\button.xnb
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2 - Copy (12)\WindowsGame2\WindowsGame2\bin\Windows Phone\Release\Content\startanimation.xnb
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2 - Copy (12)\WindowsGame2\WindowsGame2\bin\Windows Phone\Release\Content\good.xnb
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2 - Copy (12)\WindowsGame2\WindowsGame2\bin\Windows Phone\Release\Content\nogood.xnb
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2 - Copy (12)\WindowsGame2\WindowsGame2\bin\Windows Phone\Release\Content\matchword.xnb
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2 - Copy (12)\WindowsGame2\WindowsGame2\bin\Windows Phone\Release\Content\endgame.xnb
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2 - Copy (12)\WindowsGame2\WindowsGame2\bin\Windows Phone\Release\Content\reward.xnb
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2 - Copy (12)\WindowsGame2\WindowsGame2\bin\Windows Phone\Release\Content\tileSelect.xnb
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2 - Copy (12)\WindowsGame2\WindowsGame2\bin\Windows Phone\Release\Content\Courier New.xnb
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2 - Copy (12)\WindowsGame2\WindowsGame2\bin\Windows Phone\Release\Content\TWL06.txt
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2 - Copy (12)\WindowsGame2\WindowsGame2\obj\Windows Phone\Release\ResolveAssemblyReference.cache
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2 - Copy (12)\WindowsGame2\WindowsGame2\obj\Windows Phone\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2 - Copy (12)\WindowsGame2\WindowsGame2\bin\Windows Phone\Release\AppManifest.xaml
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2 - Copy (12)\WindowsGame2\WindowsGame2\obj\Windows Phone\Release\WMAppManifest.xml.g
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2 - Copy (12)\WindowsGame2\WindowsGame2\obj\Windows Phone\Release\WMAppManifest.xml
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2 - Copy (12)\WindowsGame2\WindowsGame2\obj\Windows Phone\Release\XapCacheFile.xml
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2 - Copy (12)\WindowsGame2\WindowsGame2\bin\Windows Phone\Release\Word Grid.dll
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2 - Copy (12)\WindowsGame2\WindowsGame2\bin\Windows Phone\Release\Word Grid.pdb
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2 - Copy (12)\WindowsGame2\WindowsGame2\obj\Windows Phone\Release\Word Grid.dll
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2 - Copy (12)\WindowsGame2\WindowsGame2\obj\Windows Phone\Release\Word Grid.pdb
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2 - Copy (12)\WindowsGame2\WindowsGame2\bin\Windows Phone\Release\Word Grid.xap
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2 - Copy (12)\WindowsGame2\WindowsGame2\bin\Windows Phone\Release\Content\splash.xnb
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2 - Copy (12)\WindowsGame2\WindowsGame2\bin\Windows Phone\Release\Content\loadingparticle.xnb
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2 - Copy (12)\WindowsGame2\WindowsGame2\bin\Windows Phone\Release\Content\tile.xnb
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2 - Copy (12)\WindowsGame2\WindowsGame2\bin\Windows Phone\Release\Content\background.xnb
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2 - Copy (12)\WindowsGame2\WindowsGame2\bin\Windows Phone\Release\Content\awesomepoints.xnb
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2 - Copy (12)\WindowsGame2\WindowsGame2\bin\Windows Phone\Release\Content\excellentpoints.xnb
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2 - Copy (12)\WindowsGame2\WindowsGame2\bin\Windows Phone\Release\Content\greatpoints.xnb
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2 - Copy (12)\WindowsGame2\WindowsGame2\bin\Windows Phone\Release\Content\normalpoints.xnb
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2 - Copy (12)\WindowsGame2\WindowsGame2\bin\Windows Phone\Release\Content\wowpoints.xnb
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2 - Copy (12)\WindowsGame2\WindowsGame2\bin\Windows Phone\Release\Content\circle.png
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2 - Copy (12)\WindowsGame2\WindowsGame2\bin\Windows Phone\Release\Content\diamond.png
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2 - Copy (12)\WindowsGame2\WindowsGame2\bin\Windows Phone\Release\Content\star.png
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2 - Copy (12)\WindowsGame2\WindowsGame2\bin\Windows Phone\Release\Content\letters.png
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2 - Copy (12)\WindowsGame2\WindowsGame2\bin\Windows Phone\Release\Content\greentile.png
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2 - Copy (12)\WindowsGame2\WindowsGame2\bin\Windows Phone\Release\Content\moon.png
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2 - Copy (12)\WindowsGame2\WindowsGame2\bin\Windows Phone\Release\Content\sky.png
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2 - Copy (12)\WindowsGame2\WindowsGame2\bin\Windows Phone\Release\Content\titlescreen.png
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2 - Copy (12)\WindowsGame2\WindowsGame2\bin\Windows Phone\Release\Content\smallStar.png
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2 - Copy (12)\WindowsGame2\WindowsGame2\bin\Windows Phone\Release\Content\clickcircle.png
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2 - Copy (12)\WindowsGame2\WindowsGame2\bin\Windows Phone\Release\Content\horizontal_linker.png
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2 - Copy (12)\WindowsGame2\WindowsGame2\bin\Windows Phone\Release\Content\diagonal_linker.png
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2 - Copy (12)\WindowsGame2\WindowsGame2\bin\Windows Phone\Release\Content\pointsBox.png
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2 - Copy (12)\WindowsGame2\WindowsGame2\bin\Windows Phone\Release\Content\newword.png
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2 - Copy (12)\WindowsGame2\WindowsGame2\bin\Windows Phone\Release\Content\pauseButton.png
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2 - Copy (12)\WindowsGame2\WindowsGame2\bin\Windows Phone\Release\Content\paused.png
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2 - Copy (12)\WindowsGame2\WindowsGame2\bin\Windows Phone\Release\Content\3.png
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2 - Copy (12)\WindowsGame2\WindowsGame2\bin\Windows Phone\Release\Content\1.png
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2 - Copy (12)\WindowsGame2\WindowsGame2\bin\Windows Phone\Release\Content\2.png
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2 - Copy (12)\WindowsGame2\WindowsGame2\bin\Windows Phone\Release\Content\start.png
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2 - Copy (12)\WindowsGame2\WindowsGame2\bin\Windows Phone\Release\Content\awesome.png
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2 - Copy (12)\WindowsGame2\WindowsGame2\bin\Windows Phone\Release\Content\excellent.png
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2 - Copy (12)\WindowsGame2\WindowsGame2\bin\Windows Phone\Release\Content\great.png
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2 - Copy (12)\WindowsGame2\WindowsGame2\bin\Windows Phone\Release\Content\wow.png
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2 - Copy (12)\WindowsGame2\WindowsGame2\bin\Windows Phone\Release\Content\endgamesquare.png
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2 - Copy (12)\WindowsGame2\WindowsGame2\bin\Windows Phone\Release\Content\standardbackground.png
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2 - Copy (12)\WindowsGame2\WindowsGame2\bin\Windows Phone\Release\Content\tutorial.png
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2 - Copy (12)\WindowsGame2\WindowsGame2\bin\Windows Phone\Release\Content\loadingbar.png
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2 - Copy (12)\WindowsGame2\WindowsGame2\bin\Windows Phone\Release\Content\loadingbarbackground.png
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2 - Copy (12)\WindowsGame2\WindowsGame2\bin\Windows Phone\Release\smallicon.png
+bin\Windows Phone\Release\tile.png
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2 - Copy (12)\WindowsGame2\WindowsGame2\bin\Windows Phone\Release\Content\trialword.png

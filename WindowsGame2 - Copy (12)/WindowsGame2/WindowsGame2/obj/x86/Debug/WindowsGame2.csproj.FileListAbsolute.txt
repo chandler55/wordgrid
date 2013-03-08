@@ -1,0 +1,142 @@
+c:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\WindowsGame2.exe
+c:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\WindowsGame2.pdb
+c:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\obj\x86\Debug\WindowsGame2.exe
+c:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\obj\x86\Debug\WindowsGame2.pdb
+c:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\circle.xnb
+c:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\diamond.xnb
+c:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\star.xnb
+c:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Laser.xnb
+c:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Music.xnb
+c:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Courier New.xnb
+c:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Font.xnb
+c:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Music.wma
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\background.xnb
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\TWL06.txt
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\letters.xnb
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\greentile.xnb
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Font\MenuDetail.xnb
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Font\MenuHeader.xnb
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Font\MenuTitle.xnb
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\gamefont.xnb
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\game.xnb
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\moon.xnb
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\sky.xnb
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\titlescreen.xnb
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\testfont.xnb
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\smallStar.xnb
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\scorefont.xnb
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\bigfont.xnb
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\clickcircle.xnb
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\horizontal_linker.xnb
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\diagonal_linker.xnb
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\sky2.xnb
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\backgroundfont.xnb
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\pointsfont.xnb
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\letterpointsfont.xnb
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\pointsfont2.xnb
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\pointsBox.xnb
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\newword.xnb
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\pauseButton.xnb
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\paused.xnb
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\3.xnb
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\1.xnb
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\2.xnb
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\start.xnb
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\awesome.xnb
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\excellent.xnb
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\great.xnb
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\wow.xnb
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\endgamesquare.xnb
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\endgamepoints.xnb
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\orangefont.xnb
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\whiteclearfont.xnb
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\standardbackground.xnb
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\menuheader.xnb
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\tutorial.xnb
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\System.Windows.dll
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\System.Runtime.Serialization.dll
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\System.Windows.xml
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\System.Runtime.Serialization.xml
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\button.xnb
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\startanimation.xnb
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\good.xnb
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\nogood.xnb
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\matchword.xnb
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\endgame.xnb
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\reward.xnb
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\tileSelect.xnb
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\WindowsGame2.exe.manifest
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\WindowsGame2.application
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\obj\x86\Debug\WindowsGame2.exe.manifest
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\obj\x86\Debug\WindowsGame2.application
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2 - Copy (12)\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\circle.xnb
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2 - Copy (12)\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\diamond.xnb
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2 - Copy (12)\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\star.xnb
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2 - Copy (12)\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\background.xnb
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2 - Copy (12)\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\letters.xnb
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2 - Copy (12)\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\greentile.xnb
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2 - Copy (12)\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\game.xnb
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2 - Copy (12)\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\moon.xnb
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2 - Copy (12)\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\sky.xnb
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2 - Copy (12)\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\titlescreen.xnb
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2 - Copy (12)\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\testfont.xnb
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2 - Copy (12)\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\smallStar.xnb
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2 - Copy (12)\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\scorefont.xnb
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2 - Copy (12)\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\bigfont.xnb
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2 - Copy (12)\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\clickcircle.xnb
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2 - Copy (12)\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\horizontal_linker.xnb
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2 - Copy (12)\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\diagonal_linker.xnb
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2 - Copy (12)\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\sky2.xnb
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2 - Copy (12)\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\backgroundfont.xnb
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2 - Copy (12)\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\pointsfont.xnb
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2 - Copy (12)\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\letterpointsfont.xnb
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2 - Copy (12)\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\pointsfont2.xnb
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2 - Copy (12)\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\pointsBox.xnb
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2 - Copy (12)\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\newword.xnb
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2 - Copy (12)\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\pauseButton.xnb
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2 - Copy (12)\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\paused.xnb
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2 - Copy (12)\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\3.xnb
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2 - Copy (12)\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\1.xnb
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2 - Copy (12)\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\2.xnb
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2 - Copy (12)\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\start.xnb
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2 - Copy (12)\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\awesome.xnb
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2 - Copy (12)\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\excellent.xnb
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2 - Copy (12)\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\great.xnb
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2 - Copy (12)\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\wow.xnb
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2 - Copy (12)\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\endgamesquare.xnb
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2 - Copy (12)\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\endgamepoints.xnb
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2 - Copy (12)\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\orangefont.xnb
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2 - Copy (12)\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\whiteclearfont.xnb
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2 - Copy (12)\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\standardbackground.xnb
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2 - Copy (12)\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\menuheader.xnb
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2 - Copy (12)\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\tutorial.xnb
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2 - Copy (12)\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Laser.xnb
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2 - Copy (12)\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\button.xnb
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2 - Copy (12)\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\startanimation.xnb
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2 - Copy (12)\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\good.xnb
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2 - Copy (12)\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\nogood.xnb
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2 - Copy (12)\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\matchword.xnb
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2 - Copy (12)\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\endgame.xnb
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2 - Copy (12)\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\reward.xnb
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2 - Copy (12)\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\tileSelect.xnb
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2 - Copy (12)\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Music.xnb
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2 - Copy (12)\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Courier New.xnb
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2 - Copy (12)\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Font.xnb
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2 - Copy (12)\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Font\MenuDetail.xnb
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2 - Copy (12)\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Font\MenuHeader.xnb
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2 - Copy (12)\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Font\MenuTitle.xnb
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2 - Copy (12)\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\gamefont.xnb
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2 - Copy (12)\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Music.wma
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2 - Copy (12)\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\TWL06.txt
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2 - Copy (12)\WindowsGame2\WindowsGame2\bin\x86\Debug\WindowsGame2.exe.manifest
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2 - Copy (12)\WindowsGame2\WindowsGame2\bin\x86\Debug\WindowsGame2.application
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2 - Copy (12)\WindowsGame2\WindowsGame2\bin\x86\Debug\WindowsGame2.exe
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2 - Copy (12)\WindowsGame2\WindowsGame2\bin\x86\Debug\WindowsGame2.pdb
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2 - Copy (12)\WindowsGame2\WindowsGame2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2 - Copy (12)\WindowsGame2\WindowsGame2\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2 - Copy (12)\WindowsGame2\WindowsGame2\obj\x86\Debug\WindowsGame2.exe.manifest
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2 - Copy (12)\WindowsGame2\WindowsGame2\obj\x86\Debug\WindowsGame2.application
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2 - Copy (12)\WindowsGame2\WindowsGame2\obj\x86\Debug\WindowsGame2.exe
+C:\Users\michaelbluth\Documents\Visual Studio 2010\Projects\WindowsGame2 - Copy (12)\WindowsGame2\WindowsGame2\obj\x86\Debug\WindowsGame2.pdb

@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010 Express for Windows Phone
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsGame2Content", "WindowsGame2\WindowsGame2Content\WindowsGame2Content.contentproj", "{A84F1E73-C1DC-44DB-9570-F9F5A8BE39DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Windows Phone Copy (4) of WindowsGame2", "WindowsGame2\WindowsGame2\Windows Phone Copy (4) of WindowsGame2.csproj", "{D299144E-156B-420B-9FFD-B9A10D2CD83F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Windows Copy of Windows Phone Copy (4) of WindowsGame2", "WindowsGame2\WindowsGame2\Windows Copy of Windows Phone Copy (4) of WindowsGame2.csproj", "{E3F672AF-13D4-4824-A0B2-547E395FD347}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|Windows Phone = Debug|Windows Phone
+		Debug|x86 = Debug|x86
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|Windows Phone = Release|Windows Phone
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A84F1E73-C1DC-44DB-9570-F9F5A8BE39DC}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{A84F1E73-C1DC-44DB-9570-F9F5A8BE39DC}.Debug|Windows Phone.ActiveCfg = Debug|x86
+		{A84F1E73-C1DC-44DB-9570-F9F5A8BE39DC}.Debug|x86.ActiveCfg = Debug|x86
+		{A84F1E73-C1DC-44DB-9570-F9F5A8BE39DC}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{A84F1E73-C1DC-44DB-9570-F9F5A8BE39DC}.Release|Windows Phone.ActiveCfg = Release|x86
+		{A84F1E73-C1DC-44DB-9570-F9F5A8BE39DC}.Release|x86.ActiveCfg = Release|x86
+		{D299144E-156B-420B-9FFD-B9A10D2CD83F}.Debug|Mixed Platforms.ActiveCfg = Debug|Windows Phone
+		{D299144E-156B-420B-9FFD-B9A10D2CD83F}.Debug|Mixed Platforms.Build.0 = Debug|Windows Phone
+		{D299144E-156B-420B-9FFD-B9A10D2CD83F}.Debug|Mixed Platforms.Deploy.0 = Debug|Windows Phone
+		{D299144E-156B-420B-9FFD-B9A10D2CD83F}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{D299144E-156B-420B-9FFD-B9A10D2CD83F}.Debug|Windows Phone.Build.0 = Debug|Windows Phone
+		{D299144E-156B-420B-9FFD-B9A10D2CD83F}.Debug|Windows Phone.Deploy.0 = Debug|Windows Phone
+		{D299144E-156B-420B-9FFD-B9A10D2CD83F}.Debug|x86.ActiveCfg = Debug|Windows Phone
+		{D299144E-156B-420B-9FFD-B9A10D2CD83F}.Debug|x86.Build.0 = Debug|Windows Phone
+		{D299144E-156B-420B-9FFD-B9A10D2CD83F}.Release|Mixed Platforms.ActiveCfg = Release|Windows Phone
+		{D299144E-156B-420B-9FFD-B9A10D2CD83F}.Release|Mixed Platforms.Build.0 = Release|Windows Phone
+		{D299144E-156B-420B-9FFD-B9A10D2CD83F}.Release|Mixed Platforms.Deploy.0 = Release|Windows Phone
+		{D299144E-156B-420B-9FFD-B9A10D2CD83F}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+		{D299144E-156B-420B-9FFD-B9A10D2CD83F}.Release|Windows Phone.Build.0 = Release|Windows Phone
+		{D299144E-156B-420B-9FFD-B9A10D2CD83F}.Release|Windows Phone.Deploy.0 = Release|Windows Phone
+		{D299144E-156B-420B-9FFD-B9A10D2CD83F}.Release|x86.ActiveCfg = Release|Windows Phone
+		{D299144E-156B-420B-9FFD-B9A10D2CD83F}.Release|x86.Build.0 = Release|Windows Phone
+		{E3F672AF-13D4-4824-A0B2-547E395FD347}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{E3F672AF-13D4-4824-A0B2-547E395FD347}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{E3F672AF-13D4-4824-A0B2-547E395FD347}.Debug|Windows Phone.ActiveCfg = Debug|x86
+		{E3F672AF-13D4-4824-A0B2-547E395FD347}.Debug|x86.ActiveCfg = Debug|x86
+		{E3F672AF-13D4-4824-A0B2-547E395FD347}.Debug|x86.Build.0 = Debug|x86
+		{E3F672AF-13D4-4824-A0B2-547E395FD347}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{E3F672AF-13D4-4824-A0B2-547E395FD347}.Release|Mixed Platforms.Build.0 = Release|x86
+		{E3F672AF-13D4-4824-A0B2-547E395FD347}.Release|Windows Phone.ActiveCfg = Release|x86
+		{E3F672AF-13D4-4824-A0B2-547E395FD347}.Release|x86.ActiveCfg = Release|x86
+		{E3F672AF-13D4-4824-A0B2-547E395FD347}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
