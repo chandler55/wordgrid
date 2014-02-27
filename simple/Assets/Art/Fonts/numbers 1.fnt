@@ -1,0 +1,14 @@
+info face="KenVector Future" size=128 bold=0 italic=0 charset="" unicode=1 stretchH=100 smooth=1 aa=1 padding=10,10,10,10 spacing=1,1 outline=0
+common lineHeight=128 base=100 scaleW=512 scaleH=512 pages=1 packed=0 alphaChnl=1 redChnl=4 greenChnl=4 blueChnl=4
+page id=0 file="numbers_0.png"
+chars count=10
+char id=48   x=0     y=0     width=93    height=91    xoffset=-11   yoffset=19    xadvance=95    page=0  chnl=15
+char id=49   x=376   y=92    width=50    height=91    xoffset=-11   yoffset=19    xadvance=52    page=0  chnl=15
+char id=50   x=94    y=0     width=93    height=91    xoffset=-11   yoffset=19    xadvance=95    page=0  chnl=15
+char id=51   x=188   y=0     width=93    height=91    xoffset=-11   yoffset=19    xadvance=95    page=0  chnl=15
+char id=52   x=282   y=0     width=93    height=91    xoffset=-11   yoffset=19    xadvance=95    page=0  chnl=15
+char id=53   x=376   y=0     width=93    height=91    xoffset=-11   yoffset=19    xadvance=95    page=0  chnl=15
+char id=54   x=0     y=92    width=93    height=91    xoffset=-11   yoffset=19    xadvance=95    page=0  chnl=15
+char id=55   x=94    y=92    width=93    height=91    xoffset=-11   yoffset=19    xadvance=95    page=0  chnl=15
+char id=56   x=188   y=92    width=93    height=91    xoffset=-11   yoffset=19    xadvance=95    page=0  chnl=15
+char id=57   x=282   y=92    width=93    height=91    xoffset=-11   yoffset=19    xadvance=95    page=0  chnl=15
